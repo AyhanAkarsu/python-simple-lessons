@@ -1,0 +1,6 @@
+import Kütüphanesorgu as ktp
+
+
+
+
+
