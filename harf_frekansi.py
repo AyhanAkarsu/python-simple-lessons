@@ -11,4 +11,4 @@ for i in cumledizi:
             c +=1
     sayi.append(c)
 for i in range(len(cumle)):
-    print("Harf: {} cümle içindeki sayisi {}".format(cumledizi[i],sayi[i]))
+    print("Harf: {} cümle içindeki sayısı {}".format(cumledizi[i], sayi[i]))

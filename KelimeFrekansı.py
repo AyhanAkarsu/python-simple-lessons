@@ -12,6 +12,6 @@ for i in cumle_listesi:
 
 
 
-HarfFrekansi_pd = pd.DataFrame({"Harf" : Kelime_ve_sayisi.keys(),
+harf_frekansi_df = pd.DataFrame({"Harf": Kelime_ve_sayisi.keys(),
                                 "H_Sayi" : Kelime_ve_sayisi.values()})
-print(HarfFrekansi_pd)
+print(harf_frekansi_df)
